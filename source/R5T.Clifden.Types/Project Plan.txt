@@ -1,4 +1,9 @@
 R5T.Clifden.Types - A types library for the Clifden project.
 
+Contains C# types for the types of the JSONPlaceholder (https://jsonplaceholder.typicode.com/) example HTML REST JSON API data.
+
+These are basic types, with no structural typing applied. For example, an "email" field is typed as a string, not an Email.
+
+
 Goals
 
