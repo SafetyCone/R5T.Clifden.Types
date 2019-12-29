@@ -1,6 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Lombardy\source\R5T.Lombardy\R5T.Lombardy.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Norwich.Standard\source\R5T.Norwich.Standard\R5T.Norwich.Standard.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Thessaloniki.Default\source\R5T.Thessaloniki.Default\R5T.Thessaloniki.Default.csproj" />
+    <ProjectReference Include="..\..\..\R5T.York.Standard\source\R5T.York.Standard\R5T.York.Standard.csproj" />
     <ProjectReference Include="..\R5T.Clifden.Types\R5T.Clifden.Types.csproj" />
   </ItemGroup>
 
