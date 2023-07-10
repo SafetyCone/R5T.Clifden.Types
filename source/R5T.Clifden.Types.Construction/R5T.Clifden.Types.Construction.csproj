@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\..\..\R5T.Lombardy\source\R5T.Lombardy\R5T.Lombardy.csproj" />
     <ProjectReference Include="..\..\..\R5T.Norwich.Standard\source\R5T.Norwich.Standard\R5T.Norwich.Standard.csproj" />
